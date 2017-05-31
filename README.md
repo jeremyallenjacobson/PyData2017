@@ -6,4 +6,4 @@ http://slides.com/jeremyjacobson/the-beauty-of-equations-visualized-with-bokeh-a
 
 The remainder of the talk consisted of a slideshow version of the Jupyter notebook file contained in this repository.
 
-The data (.npy) files needed for the notebook are not included (the files themselves are about 10gb). Instead, the notebook used to generate the data files is included (SaveRootsToFile.ipynb).
+The data (.npy) files needed for the notebook are not included as they are multiple GB. Instead, the notebook used to generate the data files is included (SaveRootsToFile.ipynb).
