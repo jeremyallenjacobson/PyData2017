@@ -1,7 +1,9 @@
 # PyData2017
-Files for talk at PyData-Atlanta May 30, 2017
-
-Currently the data (.npy) files needed for the notebook are not included. Soon, I will add the notebook used to generate the data files (the files themselves are about 10gb).
+Files for my talk at PyData-Atlanta May 30, 2017.
 
 The introductory slides with a few notes are available here:
-http://slides.com/jeremyjacobson/the-beauty-of-equations-visualized-with-bokeh-and-datashader
+http://slides.com/jeremyjacobson/the-beauty-of-equations-visualized-with-bokeh-and-datashader/fullscreen
+
+The remainder of the talk consisted of a slideshow version of the Jupyter notebook file contained in this repository.
+
+The data (.npy) files needed for the notebook are not included (the files themselves are about 10gb). Instead, the notebook used to generate the data files is included (SaveRootsToFile.ipynb).
